@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+body {
+    margin: 0;
+}
+
+#hero-section {
+    background: #1F2937;
+    width: 550px;
+    height: 550px;
+    padding: 52px;
+}
+
+h1 {
+    color: #FFFFFF;
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+    height: 80px;
+    width: 354px;
+    letter-spacing: -0.025em;
+    margin: 63px 0 10px 0;
+}
+
+span {
+    color: #4ADF86;
+}
+
+p {
+    color: #D5D4D8;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    height: 28px;
+    width: 372px;
+    left: 52px;
+    top: 205px;
+    margin-bottom: 51px;
+}
+
+button {
+    background: #10B981;
+    color: white;
+    height: 42px;
+    width: 191px;
+    left: 52px;
+    top: 284px;
+    border-radius: 6px;
+    border: none;
+    padding: 9px, 17px, 9px, 15px;    
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    margin: 0;
+}
+
+hr {
+    height: 0px;
+    color: #2F3E53;
+    border: 1px solid #2F3E53;
+    margin-top: 35px;
+    margin-bottom: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.gen-style {
+    background: #273549;
+    color: #55F991;
+    font-family: Inter;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+    height: 32px;
+    width: 180px;
+    left: 67px;
+    top: 400px;
+    padding: 6px 15px;
+    border-radius: 6px;
+    margin: 35px;
+}
