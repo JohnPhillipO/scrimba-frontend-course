@@ -1,4 +1,4 @@
-# cR9B46Sg
+# Password Generator
 
 ## About Scrimba
 
