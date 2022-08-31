@@ -1,4 +1,4 @@
-# cob2e4812840974342ebb42eb
+# Hometown Homepage Project
 
 ## About Scrimba
 
